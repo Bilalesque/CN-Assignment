@@ -1,0 +1,3 @@
+List down the advantages and disadvantages of different network topologies.
+List down the example where these topologies suits?
+Solve excercise from "CL307-FALL-2017-01"
